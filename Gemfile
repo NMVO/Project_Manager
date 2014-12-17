@@ -20,6 +20,7 @@ gem 'bootstrap-will_paginate'
 
 gem 'bootstrap-sass',       '>= 3.2.0.0'
 # Use postgresql as the database for Active Record
+gem 'autoprefixer-rails'
 
 gem 'binding_of_caller'
 
